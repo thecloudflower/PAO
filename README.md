@@ -1,22 +1,32 @@
 <p align="center">
-  <img src="assets/cloudflower_header.png" alt="cloudflower header" width="100%">
+  <img src="assets/cloudflower_header.png" alt="cloudflower banner" width="100%">
 </p>
 
-# Personal AI OS
+<h1 align="center">Personal AI OS</h1>
 
-**Personal AI OS** is a private-development project by **thecloudflower**.
+<p align="center">
+  A local-first personal growth operating system for context, projects, memory, and long-term self-development.
+</p>
 
-PAO is being designed as a local-first personal growth operating system: a structured environment where notes, context, projects, assistants, and long-term self-development can stay organized over time.
+<p align="center">
+  <strong>Private development by thecloudflower.</strong>
+</p>
+
+---
 
 ## Current status
 
-PAO is currently in private development.
+**Personal AI OS** is currently in private development.
 
-The active source code, internal documentation, and development history are not public at this time.
+The active source code, internal documentation, development history, assistant memory, and vault materials are not public at this time.
 
-## Project direction
+This repository is a public landing page only.
 
-PAO explores:
+## What PAO explores
+
+PAO is being designed as a structured environment where personal context, notes, projects, assistants, and long-term self-development can stay organized over time.
+
+The project explores:
 
 - local-first personal knowledge management
 - AI-assisted project continuity
@@ -25,14 +35,29 @@ PAO explores:
 - human-approved automation
 - long-term personal growth infrastructure
 
+## Development philosophy
+
+PAO is built around a simple principle:
+
+> Personal systems should adapt as the person grows.
+
+The goal is not to replace human judgment, but to support it with clearer context, safer workflows, and better continuity across time.
+
 ## Public materials
 
-This repository is a public landing page only.
+This public repository does **not** contain:
 
-It does not contain PAO source code, private vault files, internal assistant memory, or development releases.
+- PAO source code
+- private vault files
+- internal assistant memory
+- development releases
+- personal context
+- Claude, Atlas, or Ori working files
+
+Those materials remain private.
 
 ## Built by
 
 **thecloudflower**
 
-Making the invisible feel natural.
+*Making the invisible feel natural.*
