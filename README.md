@@ -1,4 +1,6 @@
-![cloudflower header](assets/cloudflower_header.png)
+<p align="center">
+  <img src="assets/cloudflower_header.png" alt="cloudflower header" width="100%">
+</p>
 # Personal AI OS
 
 **Personal AI OS** is a private-development project by **thecloudflower**.
