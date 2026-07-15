@@ -1,3 +1,4 @@
+![cloudflower header](assets/cloudflower-header.png)
 # Personal AI OS
 
 **Personal AI OS** is a private-development project by **thecloudflower**.
