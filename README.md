@@ -52,7 +52,7 @@ This public repository does **not** contain:
 - internal assistant memory
 - development releases
 - personal context
-- Claude, Atlas, or Ori working files
+- AI assistant working files
 
 Those materials remain private.
 
