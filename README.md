@@ -24,6 +24,32 @@ The active source code, internal documentation, development history, private ope
 
 This repository serves as PAO’s public landing page only.
 
+## What does PAO actually do?
+
+In simple terms, PAO is being designed as a private digital home for the important parts of your life.
+
+It can help you keep track of:
+
+- what you are working on
+- what you have learned
+- decisions you have made
+- goals you are trying to reach
+- information you may need again later
+
+Instead of starting over every time you open an AI assistant, PAO is designed to help the system understand the context you choose to provide and continue from where you left off.
+
+For example, PAO could help you return to a project months later and remember:
+
+- what the project was about
+- what had already been completed
+- what decisions were made
+- which information supported those decisions
+- what the next step was supposed to be
+
+PAO is not meant to take control of your life or make important decisions for you. It is meant to help you stay organized, remember what matters, and make more informed decisions yourself.
+
+You remain in control of what PAO can see, what it can use, and what actions it is allowed to take.
+
 ## What PAO explores
 
 PAO explores how a personal system can safely understand context, preserve continuity, and adapt as the person using it grows.
